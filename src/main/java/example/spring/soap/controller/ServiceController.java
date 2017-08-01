@@ -6,6 +6,7 @@ import javax.jws.WebService;
 import example.spring.soap.service.IService;
 
 @WebService
+
 public class ServiceController {
 	
 /*	IService soapService ;
